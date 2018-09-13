@@ -16,7 +16,7 @@ export default class PanelManager {
   }
 
   init() {
-    const managerBLabel = "Editing";
+    const managerBLabel = "Spinal Apps";
     const managerBIcon = "settings";
 
     let icon = this.managerB.container.firstChild;
